@@ -1,5 +1,5 @@
 
-setwd("C:\\Users\\BERK\\Desktop")
+setwd("C:\\Users\\USER\\Desktop")
 training_data <- read.csv("projetrain.csv")
 test_data <- read.csv("projetest.csv")
 str(training_data_imp)
